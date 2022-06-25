@@ -1,8 +1,8 @@
 import { useState } from "react"
 function Home(){
    return (
-      <div>
-         <h1>Home</h1>
+      <div className="Cor_Fundo">
+         <h1>Teste Contador</h1>
          <Contador />
       </div>
 
